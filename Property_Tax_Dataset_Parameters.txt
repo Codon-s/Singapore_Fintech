@@ -1,0 +1,23 @@
+Property Tax Parameters
+
+Property-tax-by-annual:
+
+1. Meta Data (Master File):
+
+Parameters:
+  
+* financial_year: Represents the fiscal period for financial reporting.
+* property_type: Indicates the category of the property (e.g., residential, commercial).
+* no_of_cases: Shows the count of property-related instances or events.
+* annual_value: Denotes the yearly rental income potential of the property.
+* median_annual_value: Represents the middle value of annual property values in the dataset.
+
+2. Property-tax-by-hbd
+
+Parameters:
+
+* financial_year: Represents the fiscal year for data analysis.
+* type_of_hdd: This parameter likely refers to the type or category of Housing and Development Board (HDB) flats in Singapore. HDB flats are public housing apartments build and managed by the Housing and Development Board in Singapore.
+* no_of_cases: Indicates the count of property-related instances or events.
+* median_annual_value: Represents the middle value of annual property values for the specified HDB type.
+* property_tax_collection: Denotes the total amount of property tax collected for the given fiscal year and HDB type.
